@@ -2,11 +2,13 @@
 title: "PA1_template.Rmd"
 author: "nehapandya2811"
 date: "18/02/2020"
-output: 
+output:
   html_document: 
     fig_caption: yes
     keep_md: yes
     number_sections: yes
+    toc: yes
+  word_document:
     toc: yes
 ---
 
