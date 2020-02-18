@@ -6,9 +6,6 @@ output:
   html_document: 
     fig_caption: yes
     keep_md: yes
-    number_sections: yes
-    toc: yes
-  word_document:
     toc: yes
 ---
 
