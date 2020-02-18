@@ -6,8 +6,9 @@ output:
   html_document: 
     df_print: default
     fig_caption: yes
+    fig_height: 10
+    fig_width: 15
     keep_md: yes
-    number_sections: yes
     toc: yes
 ---
 
