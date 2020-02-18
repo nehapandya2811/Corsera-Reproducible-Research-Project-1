@@ -4,8 +4,10 @@ author: "nehapandya2811"
 date: "18/02/2020"
 output:
   html_document: 
+    df_print: default
     fig_caption: yes
     keep_md: yes
+    number_sections: yes
     toc: yes
 ---
 
